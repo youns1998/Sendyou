@@ -12,11 +12,11 @@
         android:text="LOGIN"/>
 
     <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
         android:layout_gravity="center"
         android:background="@null"
-        android:src="@mipmap/ic_launcher" />
+        android:src="@drawable/main_icon" />
 
     <EditText
         android:layout_width="match_parent"
@@ -40,7 +40,7 @@
         android:text="Login with facebook"/>
 
 
-    
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
